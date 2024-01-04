@@ -1,5 +1,5 @@
 lista = []
-
+ A = []
 
 
 import random
