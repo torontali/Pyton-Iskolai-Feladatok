@@ -1,6 +1,4 @@
 lista = []
- A = []
-
 
 import random
 
