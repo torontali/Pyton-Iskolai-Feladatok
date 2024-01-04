@@ -17,21 +17,4 @@ lista.remove(closest_value)
 closest_value2 = min(lista, key=lambda x: abs(x - bekeres))
 
 print('Első legközelebbi: ',closest_value)
-print('Második legközelebbi: ',closest_value2 )
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+print('Második legközelebbi: ',closest_value2)
