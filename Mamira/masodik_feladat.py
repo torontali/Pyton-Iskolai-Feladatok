@@ -24,5 +24,3 @@ sorszam.reverse()
 print("A lsita fordított sorrende: ")
 for x in range(0,vegso_eretek-1):
     print(sorszam[x],".","elem: ",lista[x])
-
-print("lista fordított sorendje: ")
