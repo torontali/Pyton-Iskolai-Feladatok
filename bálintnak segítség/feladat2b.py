@@ -12,7 +12,7 @@ closest_value = min(lista, key=lambda x: abs(x - bekeres))
 
 print('lista: ',lista)
 
-lista.remove(elso_szam)
+lista.remove(closest_value)
 
 closest_value2 = min(lista, key=lambda x: abs(x - bekeres))
 
