@@ -6,7 +6,7 @@ paratlan = []
 
 for i in range (20):
     szam = random.randrange(1,50)
-   
+    lista.append(szam)
 
 
 for x in lista: 
