@@ -21,7 +21,7 @@ lista.remove(min(lista))
 
 print('print lista harmadik legkissebb száma: ',min(lista)) 
 
-lista.remove(min(lista))
+
 
 
 
